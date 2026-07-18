@@ -1,2 +1,2 @@
-# carolynkroger.github.io
+# carriekroger.github.io
 professional website repository
