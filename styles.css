@@ -1,0 +1,42 @@
+/* General page appearance */
+
+body {
+  line-height: 1.6;
+  font-size: 17px;
+}
+
+/* Make the main text area a comfortable width */
+
+main {
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Navigation title */
+
+.navbar-title {
+  font-weight: 600;
+}
+
+/* Headings */
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+/* Links */
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Images */
+
+img {
+  max-width: 100%;
+  height: auto;
+}
