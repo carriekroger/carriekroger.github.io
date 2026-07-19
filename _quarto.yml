@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Carolyn Kroger"
+  site-url: "https://carolynkroger.com"
+
+  navbar:
+    title: "Carolyn Kroger"
+    collapse-below: sm
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Outreach
+        href: outreach.qmd
+      - text: Blog
+        href: blog.qmd
+
+  page-footer:
+    center: "© 2026 Carolyn Kroger"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+
+    

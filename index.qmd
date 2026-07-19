@@ -1,0 +1,22 @@
+---
+title: "Carolyn Kroger, Ph.D."
+---
+![](images/CK_headshot_2022.jpg){fig-alt="Headshot of Carolyn Kroger" title="Carolyn Kroger" width=230}
+
+Hi, I'm Carrie!
+
+I am a postdoctoral researcher at the University of Michigan Kresge Hearing Research Institute. 
+My work focuses on how humans perceive the timing of sounds and how timing contributes to auditory perception (e.g., speech and music), and auditory-motor coordination. 
+My work contributes to the scientific understanding of human timing and time perception with the goal of improving assessments and rehabilitations for older adults and individuals with hearing loss and movement disorders.
+I received my PhD in Psychology with an interdisciplinary Cognitive Science graduate certificate from Michigan State University in Dec 2022. 
+
+## Research interests
+
+- Time perception
+- Auditory perception and neuroscience
+- Motor control and auditory-motor synchronization
+
+## Contact
+
+Email: [ckroger@med.umich.edu](mailto:ckroger@med.umich.edu)
+ckroger [at] med [dot] umich [dot] edu

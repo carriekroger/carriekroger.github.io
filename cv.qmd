@@ -1,0 +1,30 @@
+---
+title: "CV"
+---
+
+You can download my CV here:
+
+[Download my CV](files/Carolyn_Kroger_CV.pdf)
+
+## Education
+
+**Degree**, Field  
+University Name, Year
+
+**Degree**, Field  
+University Name, Year
+
+## Appointments
+
+**Position Title**  
+Institution, Year–Present
+
+## Selected awards and honors
+
+- Award or honor, Year
+- Award or honor, Year
+
+## Selected presentations
+
+- Presentation title, Conference or venue, Year
+- Presentation title, Conference or venue, Year

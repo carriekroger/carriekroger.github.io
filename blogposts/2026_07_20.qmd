@@ -1,0 +1,26 @@
+
+---
+title: "What I am passionate about my research"
+date: "2026-07-18"
+categories: [Research, Science Communication]
+description: "A short introduction to why I study what I study and why it matters outside of the lab."
+---
+
+This is a short professional introduction to my research area.
+
+## The big question
+
+My research focuses on [describe the broad question].
+
+## Why this matters
+
+This topic matters because [explain the broader significance].
+
+## What I am interested in now
+
+Currently, I am especially interested in [describe current interests].
+
+## Further reading
+
+- [Useful resource or paper](https://example.com)
+- [Another useful resource](https://example.com)

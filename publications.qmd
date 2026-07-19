@@ -1,0 +1,41 @@
+---
+title: "Publications"
+---
+
+## Peer-reviewed publications
+
+1. Carolyn Kroger, Coauthor Name, and Coauthor Name. Year.  
+   "Title of the Article." *Journal Name* volume(issue): pages.  
+   [DOI](https://doi.org/your-doi-here) | [PDF](files/paper-example.pdf)
+
+2. Carolyn Kroger and Coauthor Name. Year.  
+   "Title of Another Article." *Journal Name* volume(issue): pages.  
+   [DOI](https://doi.org/your-doi-here) | [PDF](files/paper-example.pdf)
+   
+1. Carolyn Kroger, Coauthor Name, and Coauthor Name. Year.  
+   "Title of the Article." *Journal Name* volume(issue): pages.  
+   [DOI](https://doi.org/your-doi-here) | [PDF](files/paper-example.pdf)
+
+2. Carolyn Kroger and Coauthor Name. Year.  
+   "Title of Another Article." *Journal Name* volume(issue): pages.  
+   [DOI](https://doi.org/your-doi-here) | [PDF](files/paper-example.pdf)
+
+1. Carolyn Kroger, Coauthor Name, and Coauthor Name. Year.  
+   "Title of the Article." *Journal Name* volume(issue): pages.  
+   [DOI](https://doi.org/your-doi-here) | [PDF](files/paper-example.pdf)
+
+2. Carolyn Kroger and Coauthor Name. Year.  
+   "Title of Another Article." *Journal Name* volume(issue): pages.  
+   [DOI](https://doi.org/your-doi-here) | [PDF](files/paper-example.pdf)
+
+1. Carolyn Kroger, Coauthor Name, and Coauthor Name. Year.  
+   "Title of the Article." *Journal Name* volume(issue): pages.  
+   [DOI](https://doi.org/your-doi-here) | [PDF](files/paper-example.pdf)
+
+
+
+## Preprints
+
+1. Carolyn Kroger and Coauthor Name. Year.  
+   "Title of Another Article." *Journal Name* volume(issue): pages.  
+   [DOI](https://doi.org/your-doi-here) | [PDF](files/paper-example.pdf)

@@ -1,0 +1,12 @@
+---
+title: "Blog"
+listing:
+  contents: "blogposts/*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+This is a landing pad for short, accessible notes on research, science communication, outreach, and public scholarship.
+
+## First blog post forthcoming!

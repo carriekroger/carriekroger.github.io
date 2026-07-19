@@ -1,0 +1,19 @@
+---
+title: "Research"
+---
+
+[insert detailed overview of research].
+
+## Current projects
+
+### Project One
+
+Briefly describe one project here.
+
+### Project Two
+
+Briefly describe another project here.
+
+### Project Two
+
+Briefly describe another project here.
